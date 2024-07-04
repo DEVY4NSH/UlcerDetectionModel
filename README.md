@@ -49,9 +49,9 @@ To validate the model's performance, the following metrics were used:
 
 - **Model Accuracy:** 88%
 
-- **SENSITIVITY:** 0.860
+- **SENSITIVITY:** 86.0%
 
-- **SPECIFICITY:** 0.878
+- **SPECIFICITY:** 87.8%
 
 ## Confusion Matrix Definitions
 - **True Positive (TP):** Correctly predicted positive (ulcer).
