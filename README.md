@@ -52,7 +52,18 @@ To validate the model's performance, the following metrics were used:
 ## Confusion Matrix Definitions
 - **True Positive (TP):** Correctly predicted positive (ulcer).
 - **True Negative (TN):** Correctly predicted negative (non-ulcer).
-- **False Positive (FP):** Incorrectly predicted positive (ulcer).
+- **False Positive (FP):** Incorrectly predicted positive (ulcer). 
 - **False Negative (FN):** Incorrectly predicted negative (non-ulcer).
+
+
+## Installation and Usage
+To set up the project locally, follow these steps:
+- **Clone the repository:**
+  git clone "https://github.com/DEVY4NSH/UlcerDetectionModel.git"
+  cd UlcerDetectionModel
+
+
+
+
 
 
