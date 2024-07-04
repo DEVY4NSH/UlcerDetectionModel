@@ -39,6 +39,7 @@ The fully connected layer converts the high-level representation of the 2D featu
 ## Performance Metrics
 To validate the model's performance, the following metrics were used:
 
+- **Accuracy:** 86.9%
 - **Precision:** 87.6%
 - **Recall (Sensitivity):** 86.0%
 - **Specificity:** 87.8%
