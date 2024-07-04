@@ -39,19 +39,11 @@ The fully connected layer converts the high-level representation of the 2D featu
 ## Performance Metrics
 To validate the model's performance, the following metrics were used:
 
-- **Recall:** Measure of true positive rate.
+- **Precision:** 87.6%
+- **Recall (Sensitivity):** 86.0%
+- **Specificity:** 87.8%
+- **F1 Score:** 86.7%
 
-- **Precision:** Measure of the accuracy of positive predictions.
-
-- **F1-Score:** Harmonic mean of precision and recall.
-
-- **Accuracy:** Overall accuracy of the model.
-
-- **Model Accuracy:** 88%
-
-- **SENSITIVITY:** 86.0%
-
-- **SPECIFICITY:** 87.8%
 
 ## Confusion Matrix Definitions
 - **True Positive (TP):** Correctly predicted positive (ulcer).
